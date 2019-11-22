@@ -1,0 +1,140 @@
+body{
+}
+h1 {
+    font-family: 'Dancing Script', cursive;
+    padding:0;
+    margin-top:5px;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    text-align: right;
+}
+li{
+    display: inline;
+}
+h3 {
+    font-weight:bold;
+    color:#444;
+}
+p {
+    color:gray;
+}
+.head-bar {
+    background:#26292e;
+    color:#ddd;
+    width:100%;
+}
+.head-img-align {
+    margin-bottom:-20px;
+}
+.top-bar {
+    background:#e7718b;
+    color:white;
+}
+.mid-bar {
+    background:#f4f4f6;
+    border-bottom: solid pink 7px;
+}
+.bottom-bar {
+    text-align:right;
+}
+.footer-bar {
+    background:#26292e;
+    color:#ddd;
+}
+.floater {
+    float:right;
+}
+.floatel {
+    float:left;
+}
+.myButton {
+	background:linear-gradient(to bottom, #5e5c5f 5%, #282a29 100%);
+	background-color:#5e5c5f;
+	border-radius:7px;
+	display:inline-block;
+	color:#ffffff;
+	font-size:17px;
+	padding:10px 20px;
+    text-decoration:none;
+    position:absolute;
+    top:40%;
+    left:12.5%;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #282a29 5%, #5e5c5f 100%);
+    background-color:#282a29;
+    color:white;
+    text-decoration:none;
+}
+.boop {
+    width:420px;
+}
+.hero-size {
+    width:550px;
+    height:350px;
+}
+.icon-resize {
+    width:38px;
+}
+.icon-align {
+    margin-left:155px;
+    margin-top:-50px;
+    margin-bottom:50px;
+}
+.icon-align2 {
+    margin-right:-160%;
+}
+.box-marg {
+    margin-top:30px;
+}
+.box-marg2 {
+    margin-top:10px;
+}
+.box-marg3 {
+    margin-top:-20px;
+}
+.topper {
+    margin-top:-25px;
+    margin-bottom:30px;
+}
+.scoot {
+    margin-bottom:-50px;
+}
+.icon-marg {
+    position:absolute;
+    top:1%;
+    right:7%;
+}
+.icon-marg2 {
+    position:absolute;
+    bottom:-59%;
+    right:7%;
+}
+.test {
+    margin-left:10px;
+}
+.test2 {
+    margin-left:20px;
+}
+.test3 {
+    margin-left:0px;
+}
+.black {
+    color:black;
+    list-style-type:none;
+}
+.black:hover {
+    color:black;
+    text-decoration:none;
+}
+.white {
+    color:#f4f4f6;
+}
+.bottom-space {
+    margin-bottom:60px;
+}
+.client {
+    margin-right:125px;
+}
